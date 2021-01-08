@@ -1,0 +1,18 @@
+{
+    "token": "NzY2OTAxMTg3Mzc4Njc1NzIy.X_ZVDQ.E4nrVsY88EebTcG5QzYB9AAY6Wc",
+    "password": "SSBN623ssbn623",
+    "prefix": "x",   
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+    "slotbot_sniper": true,
+    "privnote_sniper": false,
+
+    "stream_url": "https://twitch.tv/tkoontop",
+    "tts_language": "en",
+
+    "bitly_key": "bitly-key-here",
+    "cat_key": "cat-key-here",
+    "weather_key": "weather-key-here",
+    "cuttly_key": "cuttly-key-here"
+}
